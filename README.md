@@ -1,36 +1,92 @@
 <h1 align="center">Hi 👋, I'm Piyush Shrivastava</h1>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<h3 align="center">I, Piyush Shrivastava, am a passionate Full Stack Developer with hands-on experience in both frontend and backend technologies. I specialize in building responsive, user-friendly web applications and writing clean, maintainable code. With a strong commitment to learning and innovation, I strive to deliver scalable and efficient digital solutions that create real-world impact.</h3>
+<h3 align="center">A Passionate Full Stack Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushshriv&label=Profile%20views&color=0e75b6&style=flat" alt="piyushshriv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushshriv" alt="piyushshriv" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I recently worked on MEEDIMEET – a modern web-based platform designed for seamless virtual meetings and collaboration. The project was built using Next.js, React, NeonDB, and JavaScript, focusing on fast performance, responsive design, and efficient database integration. [MEEDIMEET](https://medimeet-three.vercel.app/)
-
-- 🌱 I’m currently learning **🎓 I’m currently learning advanced full stack development concepts, focusing on improving my skills in JavaScript, Next.js, Prisma, and cloud deployment. I’m also exploring DevOps practices and AI integrations to build smarter, scalable web applications.**
-
-- 🔭 I recently worked on Sensai – an AI-powered career guidance platform designed to help users build professional resumes, generate tailored cover letters, and gain industry insights. Built using React, Tailwind CSS, PostgreSQL (via Prisma ORM), and AI APIs, Sensai streamlines the job application process with a focus on personalization and ease of use. [Sensai](https://github.com/Piyushshriv/sensai)
-
-- 💬 Ask me about **🛠️ Frontend: React, Tailwind CSS, HTML5, CSS3, JavaScript 🧠 Backend: Node.js, Express.js, MongoDB, PostgreSQL 🔧 Dev Tools: Git, GitHub, VS Code, Postman, Docker ☁️ Deployment: Vercel, Netlify, Render, Heroku**
-
-- 📫 How to reach me **piyushshrivastava76@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush shrivastava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piyushshrivastava76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushshrivastava76" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/unexpectedxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="unexpectedxd" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="Coding Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyushshriv&label=Profile%20views&color=0e75b6&style=flat" alt="piyushshriv" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushshriv&theme=dracula" alt="trophies" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushshriv&show_icons=true&locale=en&layout=compact" alt="piyushshriv" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushshriv&show_icons=true&locale=en" alt="piyushshriv" /></p>
+### 💫 About Me
+I, **Piyush Shrivastava**, am a passionate Full Stack Developer with hands-on experience in both frontend and backend technologies. I specialize in building **responsive**, **user-friendly** web applications and writing clean, maintainable code.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushshriv&" alt="piyushshriv" /></p>
+🔭 I recently worked on:
+- **[MEEDIMEET](https://medimeet-three.vercel.app/)** – a modern virtual meeting platform using **Next.js**, **React**, **NeonDB**, and **JavaScript**.
+- **[Sensai](https://github.com/Piyushshriv/sensai)** – an AI-powered career platform using **React**, **Tailwind CSS**, **Prisma**, and **PostgreSQL**.
 
+🌱 I’m currently learning:
+- Advanced Full Stack Development
+- DevOps, CI/CD pipelines
+- AI Integration in Web Apps
+
+💬 Ask me about:
+- 🧠 Frontend: React, Tailwind CSS, JavaScript, HTML5, CSS3
+- ⚙️ Backend: Node.js, Express.js, MongoDB, PostgreSQL
+- 🔧 Dev Tools: Git, Postman, Docker
+- ☁️ Deployment: Vercel, Netlify, Render, Heroku
+
+📫 Reach me at: **piyushshrivastava76@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/piyushshrivastava" target="_blank">
+    <img src="https://img.shields.io/badge/-Piyush%20Shrivastava-blue?style=for-the-badge&logo=Linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.leetcode.com/piyushshrivastava76" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="Leetcode">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/unexpectedxd" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksForGeeks">
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" alt="AWS"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushshriv&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushshriv&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushshriv&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+---
+
+### 🔥 Let's Build Something Amazing Together!
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
